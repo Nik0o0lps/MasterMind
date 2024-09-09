@@ -49,7 +49,7 @@ Compile e Rode o Projeto:
 
 Configure o kit de compilação (Desktop Qt) no Qt Creator.
 Clique em "Run" para compilar e executar o jogo.
-Contribuição
+##Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests. Para mudanças significativas, por favor, abra uma discussão primeiro para que possamos discutir o que você gostaria de alterar.
 
 Faça um Fork do projeto.
@@ -57,10 +57,10 @@ Crie uma Branch para sua Feature (git checkout -b feature/AmazingFeature).
 Faça o Commit das suas mudanças (git commit -m 'Add some AmazingFeature').
 Envie para o Branch (git push origin feature/AmazingFeature).
 Abra um Pull Request.
-Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
+##Licença
+Este projeto está licenciado sob a Licença MIT
 
-Contato
+##Contato
 Nikolas Lopes
 NikolasLopes2000@outlook.com
 
