@@ -15,6 +15,7 @@
 ## Sobre o Projeto
 
 Este projeto foi desenvolvido como parte de um estudo sobre desenvolvimento de aplicações gráficas com o Qt. O jogo implementa uma interface intuitiva onde o jogador pode selecionar cores e verificar suas tentativas contra a combinação secreta gerada aleatoriamente pelo sistema.
+Postei um vídeo meu jogando o jogo para a disciplina de linguagem de programação 2.
 
 ## Como Jogar
 
